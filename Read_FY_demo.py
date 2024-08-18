@@ -108,7 +108,7 @@ Notes:
 """
 import h5py
 
-file_path='J:/15_FY_GNOS/03_Data/代码测试文件/A202407220036939986/FY3E_GNOSR_ORBT_L1_20230330_1411_RFLC6_V0.HDF'
+file_path='path to your data file'
 
 # output_file = "output_FY.txt"  # 替换为你想保存的文本文件路径
 # # 打开HDF5文件
